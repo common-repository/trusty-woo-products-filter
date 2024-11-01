@@ -1,0 +1,526 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Trusty Woo Products Filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-14 08:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3\n"
+"X-Domain: trusty-woo-products-filter"
+
+#: admin/tabs/general.php:31
+msgid "Add"
+msgstr ""
+
+#: admin/functions.php:155
+msgid "Add Extra Classes to Post"
+msgstr ""
+
+#: admin/functions.php:155 admin/tabs/advanced.php:3
+msgid "Advanced"
+msgstr ""
+
+#: admin/filter-types/twf_Product_cat.php:66
+msgid "All Categories"
+msgstr ""
+
+#: admin/filter-types/twf_Product_tag.php:67
+msgid "All Tags"
+msgstr ""
+
+#: admin/functions.php:149 admin/tabs/appearance.php:2
+msgid "Appearance"
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:21
+msgid "Attribute"
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:85
+msgid "Attribute Placeholder"
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:53
+msgid "Attribute Skin"
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:15 admin/tabs/general.php:23
+msgid "Attributes"
+msgstr ""
+
+#: admin/tabs/appearance.php:12
+msgid "Background Color"
+msgstr ""
+
+#: admin/tabs/general.php:3
+msgid "Build Your Filter"
+msgstr ""
+
+#: admin/tabs/typography.php:66 admin/tabs/typography.php:142
+msgid "Capitalize"
+msgstr ""
+
+#: admin/filter-types/twf_Product_cat.php:136
+msgid "Category Placeholder"
+msgstr ""
+
+#: includes/product/layouts/product-default.php:6
+msgid "Cheapest First"
+msgstr ""
+
+#: admin/tabs/general.php:26
+msgid "Custom Taxonomies"
+msgstr ""
+
+#: admin/tabs/layouts.php:89 admin/tabs/layouts.php:179
+msgid "Default"
+msgstr ""
+
+#: admin/tabs/advanced.php:21
+msgid "Desktop"
+msgstr ""
+
+#: admin/tabs/shortcode.php:11
+msgid "Directly paste this shortcode in your page builder/classic editor"
+msgstr ""
+
+#: admin/tabs/advanced.php:19
+msgid "Disable"
+msgstr ""
+
+#: admin/tabs/layouts.php:42
+msgid "Display Filter and Product Layouts"
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:39
+msgid "Display Type"
+msgstr ""
+
+#: admin/functions.php:136
+msgid "Documentation"
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:97
+#: admin/filter-types/twf_Price.php:133
+#: admin/filter-types/twf_Product_cat.php:145
+#: admin/filter-types/twf_Product_tag.php:145
+#: admin/filter-types/twf_Sale.php:79
+msgid "Enable Toggle"
+msgstr ""
+
+#: admin/tabs/advanced.php:16
+msgid "Enable/Disable Scroll while filtering products."
+msgstr ""
+
+#: admin/tabs/layouts.php:48
+msgid "Filter & Product Layout"
+msgstr ""
+
+#: admin/tabs/layouts.php:114
+msgid "Filter Color Combination"
+msgstr ""
+
+#: admin/tabs/layouts.php:65
+msgid "Filter Layout"
+msgstr ""
+
+#: admin/tabs/general.php:7
+msgid "Filter Settings"
+msgstr ""
+
+#: admin/tabs/typography.php:16
+msgid "Filter Taxonomy Labels"
+msgstr ""
+
+#: admin/tabs/typography.php:98
+msgid "Filter Terms/Categories Labels"
+msgstr ""
+
+#: admin/tabs/typography.php:10
+msgid "Filter Typography"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Filter woocommerce products with price slider, categories, tags and specific "
+"attributes."
+msgstr ""
+
+#: admin/tabs/typography.php:28 admin/tabs/typography.php:110
+msgid "Font Family"
+msgstr ""
+
+#: admin/tabs/typography.php:75 admin/tabs/typography.php:151
+msgid "Font Size"
+msgstr ""
+
+#: admin/filter-types/twf_Product_cat.php:52
+#: admin/filter-types/twf_Product_tag.php:53
+msgid "Frontend Display"
+msgstr ""
+
+#: admin/functions.php:136 admin/tabs/layouts.php:30
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions.php:158
+msgid "Get Your shortcode"
+msgstr ""
+
+#: admin/filter-types/twf_Product_cat.php:73
+#: admin/filter-types/twf_Product_tag.php:74
+msgid "Hierarchical"
+msgstr ""
+
+#: includes/product/layouts/product-default.php:7
+msgid "Highest First"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://trustyplugins.com"
+msgstr ""
+
+#: admin/tabs/typography.php:64 admin/tabs/typography.php:140
+msgid "Inherit"
+msgstr ""
+
+#: admin/functions.php:145
+msgid "Layouts"
+msgstr ""
+
+#: admin/tabs/layouts.php:25
+msgid "Layouts Management"
+msgstr ""
+
+#: admin/tabs/typography.php:67 admin/tabs/typography.php:143
+msgid "Lowercase"
+msgstr ""
+
+#: admin/tabs/advanced.php:20
+msgid "Mobile"
+msgstr ""
+
+#: admin/tabs/advanced.php:22
+msgid "Mobile & Desktop"
+msgstr ""
+
+#: includes/product/layouts/product-default.php:5
+msgid "Newest First"
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:106
+#: admin/filter-types/twf_Price.php:94 admin/filter-types/twf_Price.php:112
+#: admin/filter-types/twf_Price.php:142
+#: admin/filter-types/twf_Product_cat.php:87
+#: admin/filter-types/twf_Product_cat.php:117
+#: admin/filter-types/twf_Product_cat.php:129
+#: admin/filter-types/twf_Product_cat.php:150
+#: admin/filter-types/twf_Product_tag.php:87
+#: admin/filter-types/twf_Product_tag.php:117
+#: admin/filter-types/twf_Product_tag.php:129
+#: admin/filter-types/twf_Product_tag.php:150
+#: admin/filter-types/twf_Sale.php:58 admin/filter-types/twf_Sale.php:88
+msgid "No"
+msgstr ""
+
+#: admin/filter-types/twf_Sale.php:35
+msgid "Not on Sale Placeholder"
+msgstr ""
+
+#: admin/tabs/appearance.php:28
+msgid "Pagination"
+msgstr ""
+
+#: admin/tabs/appearance.php:65
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/product/layouts/product-default.php:4
+msgid "Popular First"
+msgstr ""
+
+#: admin/tabs/appearance.php:93
+msgid "Post Animation"
+msgstr ""
+
+#: admin/functions.php:145 admin/functions.php:149
+msgid "Post Layout, Filter Layout"
+msgstr ""
+
+#: admin/functions.php:142
+msgid "Post Type, Categories"
+msgstr ""
+
+#: admin/tabs/appearance.php:52
+msgid "Posts Per Page"
+msgstr ""
+
+#: admin/tabs/appearance.php:34
+msgid "Posts Per Page Type"
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:14 admin/tabs/general.php:22
+msgid "Price"
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:74
+msgid "Price End"
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:121
+msgid "Price Placeholder"
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:63
+msgid "Price Range Steps"
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:39
+msgid "Price Start From"
+msgstr ""
+
+#: admin/tabs/layouts.php:117 admin/tabs/layouts.php:190
+msgid "Primary Color"
+msgstr ""
+
+#: admin/filter-types/twf_Product_cat.php:18 admin/tabs/general.php:24
+msgid "Product Categories"
+msgstr ""
+
+#: admin/tabs/layouts.php:187
+msgid "Product Layout Color Combination"
+msgstr ""
+
+#: admin/filter-types/twf_Product_tag.php:20 admin/tabs/general.php:25
+msgid "Product Tags"
+msgstr ""
+
+#: admin/tabs/layouts.php:148
+msgid "Products Layout"
+msgstr ""
+
+#: admin/tabs/typography.php:81 admin/tabs/typography.php:157
+msgid "px"
+msgstr ""
+
+#: admin/filter-types/twf_Sale.php:16 admin/tabs/general.php:27
+msgid "Sale"
+msgstr ""
+
+#: admin/filter-types/twf_Sale.php:67
+msgid "Sale Placeholder"
+msgstr ""
+
+#: admin/tabs/advanced.php:8
+msgid "Scroll Settings"
+msgstr ""
+
+#: admin/tabs/advanced.php:16
+msgid "Scroll To Main Div"
+msgstr ""
+
+#: admin/tabs/layouts.php:122 admin/tabs/layouts.php:195
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/tabs/layouts.php:127 admin/tabs/layouts.php:200
+msgid "Secondary Color 2"
+msgstr ""
+
+#: admin/tabs/appearance.php:6
+msgid "Section Background"
+msgstr ""
+
+#: admin/tabs/appearance.php:12
+msgid "Select background color for main section."
+msgstr ""
+
+#: admin/filter-types/twf_Product_cat.php:24
+msgid "Select Categories"
+msgstr ""
+
+#: admin/tabs/layouts.php:79
+msgid "Select design layout of filter."
+msgstr ""
+
+#: admin/tabs/layouts.php:158
+msgid "Select design layout of products."
+msgstr ""
+
+#: admin/tabs/general.php:14
+msgid "Select Filter Type"
+msgstr ""
+
+#: admin/tabs/typography.php:100
+msgid "Select font styling for Category Labels."
+msgstr ""
+
+#: admin/tabs/typography.php:18
+msgid "Select font styling for Taxonomy Labels."
+msgstr ""
+
+#: admin/tabs/appearance.php:99
+msgid "Select Post Animation"
+msgstr ""
+
+#: admin/tabs/appearance.php:34 admin/tabs/appearance.php:52
+msgid "Select Posts Per Page according your needs.use -1 for all posts."
+msgstr ""
+
+#: admin/tabs/layouts.php:114
+msgid "Select Primary/Secondary color for filter layout."
+msgstr ""
+
+#: admin/tabs/layouts.php:187
+msgid "Select Primary/Secondary color for Product layout."
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:21
+msgid "Select Skin for Price Filter"
+msgstr ""
+
+#: admin/filter-types/twf_Product_tag.php:26
+msgid "Select Tags"
+msgstr ""
+
+#: admin/tabs/appearance.php:65
+msgid "Select what type of pagination you want on frontend."
+msgstr ""
+
+#: admin/tabs/layouts.php:79
+msgid "Select Your Filter Design"
+msgstr ""
+
+#: admin/tabs/general.php:14
+msgid "Select your filter type."
+msgstr ""
+
+#: admin/tabs/layouts.php:158
+msgid "Select Your Products Layout Design"
+msgstr ""
+
+#: admin/filter-types/twf_Product_cat.php:65
+msgid "Selected Categories"
+msgstr ""
+
+#: admin/filter-types/twf_Product_tag.php:66
+msgid "Selected Tags"
+msgstr ""
+
+#: admin/tabs/advanced.php:44
+msgid "Set Scroll Position to Products (Desktop)"
+msgstr ""
+
+#: admin/tabs/advanced.php:57
+msgid "Set Scroll Position to Products (Mobile)"
+msgstr ""
+
+#: admin/functions.php:158 admin/tabs/shortcode.php:2
+msgid "Shortcode"
+msgstr ""
+
+#: admin/tabs/shortcode.php:22
+msgid "Shortcode For Page Template"
+msgstr ""
+
+#: admin/tabs/shortcode.php:11
+msgid "Shortcode For Page/Post"
+msgstr ""
+
+#: admin/tabs/shortcode.php:5
+msgid "Shortcode Options"
+msgstr ""
+
+#: admin/filter-types/twf_Product_cat.php:103
+#: admin/filter-types/twf_Product_tag.php:103
+msgid "Show Count of Products"
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:85
+msgid "Show Currency"
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:71
+#: admin/filter-types/twf_Price.php:103
+#: admin/filter-types/twf_Product_cat.php:124
+#: admin/filter-types/twf_Product_tag.php:124
+#: admin/filter-types/twf_Sale.php:49
+msgid "Show Label"
+msgstr ""
+
+#: admin/tabs/layouts.php:47
+msgid "Show Only Filter"
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:27
+msgid "Skin 1 (Checkboxes)"
+msgstr ""
+
+#: admin/filter-types/twf_Price.php:30
+msgid "Skin 2 (Price Slider)"
+msgstr ""
+
+#: admin/filter-types/twf_Product_tag.php:136
+msgid "Tags Placeholder"
+msgstr ""
+
+#: admin/tabs/typography.php:61 admin/tabs/typography.php:137
+msgid "Text Transform"
+msgstr ""
+
+#: admin/tabs/advanced.php:44
+msgid "This Will set the scroll position for Desktop."
+msgstr ""
+
+#: admin/tabs/advanced.php:57
+msgid "This Will set the scroll position for mobile devices."
+msgstr ""
+
+#: admin/functions.php:152
+msgid "Title, Description Fonts"
+msgstr ""
+
+#. Author of the plugin
+msgid "Trusty Plugins"
+msgstr ""
+
+#. Name of the plugin
+msgid "Trusty Woo Products Filter"
+msgstr ""
+
+#: admin/functions.php:152 admin/tabs/typography.php:4
+msgid "Typography"
+msgstr ""
+
+#: admin/tabs/typography.php:65 admin/tabs/typography.php:141
+msgid "Uppercase"
+msgstr ""
+
+#: admin/tabs/layouts.php:42
+msgid ""
+"Use default woo shop page layout or use premade layouts by us, Woo Default "
+"layout only will work on default shop page."
+msgstr ""
+
+#: admin/filter-types/twf_Attributes.php:103
+#: admin/filter-types/twf_Price.php:91 admin/filter-types/twf_Price.php:109
+#: admin/filter-types/twf_Price.php:139
+#: admin/filter-types/twf_Product_cat.php:86
+#: admin/filter-types/twf_Product_cat.php:116
+#: admin/filter-types/twf_Product_cat.php:128
+#: admin/filter-types/twf_Product_cat.php:149
+#: admin/filter-types/twf_Product_tag.php:86
+#: admin/filter-types/twf_Product_tag.php:116
+#: admin/filter-types/twf_Product_tag.php:128
+#: admin/filter-types/twf_Product_tag.php:149
+#: admin/filter-types/twf_Sale.php:55 admin/filter-types/twf_Sale.php:85
+msgid "Yes"
+msgstr ""
